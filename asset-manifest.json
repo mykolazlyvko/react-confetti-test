@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/herrethan/react-confetti-explosion/static/css/main.4be2046b.css",
+    "main.js": "/herrethan/react-confetti-explosion/static/js/main.994d5747.js",
+    "index.html": "/herrethan/react-confetti-explosion/index.html",
+    "main.4be2046b.css.map": "/herrethan/react-confetti-explosion/static/css/main.4be2046b.css.map",
+    "main.994d5747.js.map": "/herrethan/react-confetti-explosion/static/js/main.994d5747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be2046b.css",
+    "static/js/main.994d5747.js"
+  ]
+}
